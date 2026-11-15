@@ -9,6 +9,6 @@ This workspace contains two projects:
 
 See `frontend/README.md` for instructions on installing dependencies and running the React app.
 
-v1 - Jayanth
+v1 - v1 - Developer B updated this line
 v2- jayanth varma
 v3- data scientist
