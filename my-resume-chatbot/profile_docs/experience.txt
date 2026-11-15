@@ -1,0 +1,45 @@
+Company: Uber
+Role: AI/ML Engineer
+Dates: Jul 2025 – Present
+
+Current Roles and Responsibilities:
+- Built real-time demand forecasting systems for surge pricing across high-demand zones.
+- Processed 2M+ daily trip records using Python and Apache Spark.
+- Designed feature engineering workflows using Apache Airflow.
+- Built and deployed gradient boosting models for routing and demand prediction.
+- Integrated low-latency inference services using Docker and REST APIs.
+- Developed NLP classification systems using BERT and PyTorch for rider feedback analysis.
+- Implemented model monitoring and data drift detection workflows.
+- Worked with AWS infrastructure, MLflow, CI/CD pipelines, and distributed systems.
+- Collaborated with platform engineers, data engineers, and product teams for production deployment.
+
+Technologies Used:
+Python, SQL, Apache Spark, Airflow, AWS S3, Docker, REST APIs, MLflow, PyTorch, BERT, Pandas, NumPy, Git
+
+Major Achievements:
+- Reduced prediction error by 1.8 minutes across metro routes.
+- Achieved ~90 ms inference latency for pricing and dispatch systems.
+- Processed millions of records daily for real-time operational systems.
+
+
+Company: Dell Technologies
+Role: Machine Learning Engineer
+Dates: Jun 2021 – Aug 2023
+
+Roles and Responsibilities:
+- Built machine learning systems for hardware failure prediction using telemetry data.
+- Processed millions of device telemetry records using SQL, Python, and AWS pipelines.
+- Designed ETL workflows and batch inference pipelines.
+- Developed classification systems for support ticket routing.
+- Built feature engineering pipelines using Pandas and SQL.
+- Optimized large-scale SQL joins and data extraction workflows.
+- Implemented model validation, monitoring, retraining, and deployment workflows.
+- Worked closely with support teams, reporting teams, and data engineering teams.
+
+Technologies Used:
+Python, SQL, AWS S3, Pandas, scikit-learn, MLflow, Airflow, Docker, Git
+
+Major Achievements:
+- Predicted 8K+ potential hardware failure cases.
+- Processed 500K+ records per inference run.
+- Improved pipeline efficiency by reducing extraction time by 1.5 hours.

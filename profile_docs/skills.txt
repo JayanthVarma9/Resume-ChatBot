@@ -1,0 +1,9 @@
+PASTE YOUR VERIFIED SKILLS HERE.
+
+Example:
+Programming Languages: Python, Java, C, SQL
+Frontend: React.js, Angular, HTML, CSS, Bootstrap
+Backend: Flask, Spring Boot, Node.js, .NET Core
+AI/ML: Machine Learning, NLP, RAG, LangChain, embeddings, vector search
+Cloud/DevOps: Azure, Docker, Kubernetes, CI/CD, Git, GitHub
+Databases: MySQL, PostgreSQL

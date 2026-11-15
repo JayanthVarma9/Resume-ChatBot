@@ -1,0 +1,32 @@
+Programming Languages:
+Python, SQL, Bash, JavaScript, TypeScript, Java
+
+Machine Learning:
+Supervised Learning, Unsupervised Learning, Gradient Boosting, Random Forest, XGBoost, Feature Engineering, Hyperparameter Tuning, Model Evaluation, Cross Validation
+
+Deep Learning:
+TensorFlow, PyTorch, Transformer Models, BERT
+
+Generative AI:
+LLMs, Retrieval-Augmented Generation (RAG), LangChain, OpenAI API, Vector Search, Embeddings
+
+Data Engineering:
+ETL Pipelines, Apache Airflow, Data Pipelines, Workflow Orchestration
+
+Big Data:
+Apache Spark
+
+Cloud:
+AWS S3, AWS Lambda, Redshift
+
+MLOps:
+Docker, Kubernetes, MLflow, CI/CD Pipelines, Model Deployment, Model Monitoring
+
+Backend:
+REST APIs, Flask, FastAPI
+
+Databases:
+MySQL, PostgreSQL
+
+Tools:
+Git, GitHub, Agile, Scrum

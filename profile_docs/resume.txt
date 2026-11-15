@@ -1,0 +1,9 @@
+PASTE YOUR FULL RESUME TEXT HERE.
+
+Example format:
+Name: Jayanth Ruddraraju
+Title: AI/ML Engineer / Software Engineer
+Summary: Add your verified professional summary here.
+Education: Add your verified education details here.
+Experience: Add your verified work experience here.
+Projects: Add your verified project details here.

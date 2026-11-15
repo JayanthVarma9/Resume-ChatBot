@@ -1,0 +1,34 @@
+Name: Jayanth Ruddraraju
+
+Title:
+AI/ML Engineer
+
+Professional Summary:
+AI/ML Engineer with 3+ years of experience across mobility and enterprise technology domains, building and deploying machine learning systems using Python, SQL, Spark, AWS, Airflow, Docker, and REST APIs.
+
+Experienced in:
+- Real-time prediction systems
+- Demand forecasting
+- NLP classification systems
+- Feature engineering pipelines
+- Batch and real-time inference
+- RAG systems
+- Data pipelines and ETL workflows
+- Model deployment and monitoring
+
+Education:
+Master of Science in Computer Science
+State University of New York at Binghamton
+Sep 2023 – May 2025
+
+Current Company:
+Uber
+
+Current Role:
+AI/ML Engineer
+
+Previous Company:
+Dell Technologies
+
+Previous Role:
+Machine Learning Engineer

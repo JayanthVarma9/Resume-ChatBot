@@ -1,0 +1,6 @@
+PASTE YOUR VERIFIED PROJECT DETAILS HERE.
+
+Example project format:
+Project Name: Generative AI Document Summarizer & Chatbot
+Tech Stack: Python, LangChain, OpenAI API, Azure Cognitive Search, RAG
+Description: Add only accurate details about what you built, what data you used, and what results you achieved.

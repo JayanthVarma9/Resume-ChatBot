@@ -1,0 +1,29 @@
+Project Name:
+Generative AI Document Summarizer & Chatbot
+
+Tech Stack:
+Python, LangChain, OpenAI API, Azure Cognitive Search, RAG
+
+Project Description:
+- Built a Retrieval-Augmented Generation (RAG) chatbot system for enterprise document retrieval.
+- Retrieved responses from 3,000+ documents with low-latency query performance.
+- Improved response relevance using prompt engineering and vector search optimization.
+- Built context-aware retrieval workflows for enterprise knowledge systems.
+
+Key Concepts:
+RAG, Vector Search, Embeddings, Prompt Engineering, LangChain
+
+
+Project Name:
+AI-Based Fraud Detection System
+
+Tech Stack:
+Python, TensorFlow, AWS Lambda, Kafka
+
+Project Description:
+- Built anomaly detection pipelines using Isolation Forest and Autoencoders.
+- Processed 100K+ transactions for fraud detection workflows.
+- Developed real-time transaction scoring systems using Kafka and AWS Lambda.
+
+Key Concepts:
+Anomaly Detection, Autoencoders, Real-Time ML Systems

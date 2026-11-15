@@ -1,0 +1,9 @@
+PASTE YOUR VERIFIED WORK EXPERIENCE HERE.
+
+Use this format:
+Company:
+Role:
+Dates:
+Responsibilities:
+Tools/Technologies:
+Impact:
